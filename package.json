@@ -1,11 +1,9 @@
 {
   "name": "gobha-navigation",
   "version": "1.0.0",
-  "description": "Used to generate navigations in metalsmith from info block in the files itself",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "description": "metalsmith plugin to generate navigations in metalsmith from meta informations",
+  "main": "lib/index.js",
+  "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
