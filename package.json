@@ -1,6 +1,6 @@
 {
   "name": "gobha-navigation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "metalsmith plugin to generate navigations in metalsmith from meta informations",
   "repository": {
     "type": "git",
