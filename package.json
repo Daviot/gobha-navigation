@@ -14,7 +14,10 @@
   "dependencies": {
     "async": "^2.4.1"
   },
-  "keywords": ["gobha", "metalsmith"],
+  "keywords": [
+    "gobha",
+    "metalsmith"
+  ],
   "author": "Daviot <gobha@daviot.at>",
   "license": "MIT"
 }
